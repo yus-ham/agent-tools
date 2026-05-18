@@ -1,0 +1,8 @@
+{
+  "name": "@safegit/psql",
+  "version": "1.0.0",
+  "main": "psql.ts",
+  "bin": {
+    "psql": "psql.ts"
+  }
+}
